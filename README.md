@@ -38,13 +38,13 @@ This will:
 
 ## Project Structure
 pet-segmentation/
-├── app.py # Gradio web interface
-├── config.py # Configuration settings
-├── data.py # Dataset download and preparation
-├── dataset.py # PyTorch dataset implementation
-├── models.py # UNet model implementations
-├── train.py # Training script
-└── requirements.txt # Project dependencies
+├── app.py # Gradio web interface </br>
+├── config.py # Configuration settings </br>
+├── data.py # Dataset download and preparation </br>
+├── dataset.py # PyTorch dataset implementation </br>
+├── models.py # UNet model implementations </br>
+├── train.py # Training script </br>
+└── requirements.txt # Project dependencies </br>
 
 ## Training
 
