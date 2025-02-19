@@ -37,7 +37,7 @@ This will:
 - Organize the files in the correct structure
 
 ## Project Structure
-pet-segmentation/
+pet-segmentation/</br>
 ├── app.py # Gradio web interface </br>
 ├── config.py # Configuration settings </br>
 ├── data.py # Dataset download and preparation </br>
